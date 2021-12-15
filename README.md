@@ -38,6 +38,4 @@ Interpretability is partially important.
 
 Sagar Gupta
 
-## Acknowledgement
 
-Applied AI Course
